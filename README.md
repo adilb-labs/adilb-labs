@@ -4,7 +4,9 @@
 
 Open for **paid technical engagements** in AI-agent diagnostics, software assurance, engineering automation, industrial optimization, and BOQ / estimation workflows.
 
-[**Start a paid engagement**](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml) · [Commercial capability map](CAPABILITIES.md) · [Proof index](PROOF_INDEX.md) · [Professional services](services/README.md) · [ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md)
+My software/AI work is backed by professional field experience in **Moroccan public works, major construction, engineering studies, BOQ, estimation, and technical documentation (2007–2020)**.
+
+[**Start a paid engagement**](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml) · [Commercial capability map](CAPABILITIES.md) · [Proof index](PROOF_INDEX.md) · [Professional background](PROFESSIONAL_BACKGROUND.md) · [Professional services](services/README.md)
 
 ---
 
@@ -27,6 +29,32 @@ I work on systems where a plausible answer is not enough — the result must be 
 - expensive repetitive technical workflows;
 - industrial decision support and optimization;
 - BOQ, quantity takeoff, estimation, and QA/QC workflows.
+
+---
+
+## Professional foundation
+
+Before my current AI/software work, I worked across **Moroccan public works, major construction projects, and engineering/design offices from October 2007 to June 2020**.
+
+That experience included BOQ / quantity takeoff, estimation support, engineering calculations, technical documentation, and study-office deliverables.
+
+It now gives my technical work a strong domain anchor: calculations must be explicit, boundary cases matter, source-of-truth errors have financial consequences, and automation should be qualified before it is trusted.
+
+[Read the professional background →](PROFESSIONAL_BACKGROUND.md)
+
+---
+
+## Selected evidence
+
+| Area | Public evidence |
+|---|---|
+| Software assurance & reproducibility | [Case study](case-studies/software-assurance-reproducibility.md) |
+| AI-agent reliability | [ARC-AGI-3 case study](case-studies/arc-agi-3-agent-diagnostics.md) |
+| Product decomposition | [Product Genome case study](case-studies/product-genome-decomposition.md) |
+| AI project recovery | [Knowledge Handoff case study](case-studies/ai-project-recovery-handoff.md) |
+| BOQ / estimation / calculation QA | [Engineering Calculation case study](case-studies/engineering-calculation-qa.md) |
+
+Each case study states its **claim ceiling** so designed capability, executed evidence, and production readiness are not conflated.
 
 ---
 
