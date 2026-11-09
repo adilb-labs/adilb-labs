@@ -4,7 +4,7 @@
 
 Open for **paid technical engagements** in AI-agent diagnostics, software assurance, engineering automation, industrial optimization, and BOQ / estimation workflows.
 
-[**Start a paid engagement**](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml) · [ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md) · [Professional services](services/README.md) · [Trust standard](TRUST.md)
+[**Start a paid engagement**](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml) · [Commercial capability map](CAPABILITIES.md) · [Proof index](PROOF_INDEX.md) · [Professional services](services/README.md) · [ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md)
 
 ---
 
@@ -53,6 +53,16 @@ Public release notebook: **`adilblabs/arc3-v8-public-release-57455070`**
 The final private score and final competition placement remain unknown until the organizers publish the final results.
 
 [Read the evidence-bounded case study →](case-studies/arc-agi-3-agent-diagnostics.md)
+
+---
+
+## Factory-backed commercial capabilities
+
+The public portfolio is broader than ARC-AGI-3. Current client-facing capabilities include **software assurance & technical audit, AI-agent reliability, product decomposition, AI project recovery / knowledge handoff, BOQ & estimation QA, document automation architecture, and product-line / white-label design**.
+
+Every capability is labeled by evidence level; incomplete products are not presented as finished.
+
+[See the full capability map →](CAPABILITIES.md) · [See the proof index →](PROOF_INDEX.md)
 
 ---
 
