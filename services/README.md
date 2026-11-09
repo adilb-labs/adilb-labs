@@ -1,28 +1,46 @@
 # Professional Services
 
-I take on evidence-driven technical engagements where the cost of being wrong, slow, or unable to explain a result is meaningful.
+I provide **evidence-driven technical services** for clients who need to know what is actually working, what is risky, and what the smallest justified next move is.
 
-## Current flagship service
+[Commercial capability map](../CAPABILITIES.md) · [Proof index](../PROOF_INDEX.md)
 
-### Autonomous Agent Failure Diagnostic
+## Priority services — available now
 
-For AI agents that stall, loop, waste actions or tokens, behave inconsistently, or fail to transfer from development to real evaluation or production.
+### 1. SaaS / AI Technical Audit & Production Readiness
+Architecture, code, dependencies, testing, AI integrations, evidence, production blockers, and Preserve / Repair / Replace decisions.
 
-Typical outputs include a failure taxonomy, evidence ledger, ranked root-cause hypotheses, minimal controlled experiment plan, repair/no-change recommendation, and regression/claim boundaries.
+### 2. Autonomous Agent Reliability & Evaluation
+Failure diagnosis, trajectory analysis, generalization checks, action efficiency, regression design, and bounded repair recommendations.
 
-[View the full service](autonomous-agent-failure-diagnostic.md)
+[Full flagship service](autonomous-agent-failure-diagnostic.md)
 
-## Additional engagement areas
+### 3. Product Genome / AI Product Decomposition Audit
+Turn a vague or AI-built product into a bounded product definition: requirements, risks, MVP/V1, dependencies, architecture direction, and acceptance criteria.
 
-- AI and software assurance
-- reproducibility and provenance reviews
-- engineering automation
-- industrial optimization
-- BOQ / quantity takeoff / estimation workflows
-- technical failure analysis and research
+### 4. AI Project Recovery & Knowledge Handoff
+Recover project truth from code, files, chats, branches, receipts, and AI outputs; separate current/historical/superseded state and prepare a safe handoff.
+
+### 5. BOQ / Estimation / Calculation QA & Automation Design
+Review quantity/estimation workflows, calculation rules, boundary cases, waste logic, spreadsheet-to-system specifications, and automation opportunities.
+
+## Additional bounded services
+
+- Software assurance / reproducibility review
+- Code & recovery evidence reconciliation
+- Document automation architecture
+- Document schema / fixture / output-parity review
+- White-label / product-line architecture
+- Forensic method / evidence architecture consulting
+- Engineering automation and workflow design
+
+## Engagement model
+
+**Diagnostic → Controlled verification → Minimal repair → Qualification → Ongoing support**
+
+The first engagement is intentionally bounded. The objective is to produce a defensible decision before committing the client to a larger implementation.
 
 ## Start
 
-[**Start a paid technical engagement**](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml)
+[Start a paid technical engagement](https://github.com/adilb-labs/adilb-labs/issues/new?template=paid-engagement.yml)
 
-**Important:** the GitHub intake issue is public. Do not include confidential material.
+**Important:** GitHub Issues are public. Do not include confidential client material, credentials, proprietary source, or trade secrets.
