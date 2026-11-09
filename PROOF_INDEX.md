@@ -12,6 +12,16 @@ Every proof item below is stated only at its supported level.
 
 ---
 
+## Detailed case studies
+
+- [Software Assurance & Reproducibility](case-studies/software-assurance-reproducibility.md)
+- [ARC-AGI-3 Agent Diagnostics](case-studies/arc-agi-3-agent-diagnostics.md)
+- [Product Genome & Product Decomposition](case-studies/product-genome-decomposition.md)
+- [AI Project Recovery & Knowledge Handoff](case-studies/ai-project-recovery-handoff.md)
+- [Engineering Calculation QA](case-studies/engineering-calculation-qa.md)
+
+---
+
 ## P1 — ARC-AGI-3 2026 / Interactive Agent Evaluation
 
 **Evidence class:** Official public competition result + development evidence
